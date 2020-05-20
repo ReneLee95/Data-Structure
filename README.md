@@ -14,8 +14,10 @@ study Data structure..
 
 6. double circle linked list
 
-7. BFS
+7. tree
 
-8. DFS
+8. BFS
 
-9. solution problem
+9. DFS
+
+10. solution problem
